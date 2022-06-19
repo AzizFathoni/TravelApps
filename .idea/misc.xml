@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/bg_home_curve.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/bg_home_wave.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/bg_menu.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/book_hotel.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/book_kereta.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/button_main.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/ic_date.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/ic_email.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/ic_fail.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/ic_password.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/ic_person.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/ic_success.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/notification.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/drawable/profile.xml" value="0.2265" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/layout/activity_book_kereta.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/layout/activity_history.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/layout/activity_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/layout/activity_register.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/TravelApps/app/src/main/res/layout/list_item_booking.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
